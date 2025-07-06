@@ -1,0 +1,136 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Comunidade MDT SA - SAMP</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white font-sans">
+  <!-- Header -->
+  <header class="bg-gray-800 p-6 shadow-md">
+    <div class="max-w-6xl mx-auto flex justify-between items-center">
+      <h1 class="text-2xl font-bold text-red-500">Comunidade MDT SA - SAMP</h1>
+      <nav class="space-x-4">
+        <a href="#sobre" class="hover:underline">Sobre</a>
+        <a href="#membros" class="hover:underline">Membros</a>
+        <a href="#discord" class="hover:underline">Discord</a>
+        <a href="#contato" class="hover:underline">Contato</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="bg-gradient-to-r from-red-500 to-red-700 py-16 text-center">
+    <h2 class="text-4xl font-bold mb-4">Bem-vindo à Comunidade Oficial do Canal!</h2>
+    <p class="text-lg">Fique por dentro de tudo sobre o MDT SA - SAMP — conteúdo, membros, Discord, e mais.</p>
+  </section>
+
+  <!-- Sobre o YouTube -->
+  <section id="sobre" class="py-12 max-w-5xl mx-auto px-4">
+    <h3 class="text-3xl font-bold mb-6 text-red-400">Sobre o Canal</h3>
+    <p class="text-lg leading-relaxed">
+      O canal <strong>MDT SA</strong> traz vídeos e lives de SA-MP no momento (Horizonte RP), dicas, eventos, zoeiras e muito mais.
+      Nossa comunidade é ativa tanto no YouTube quanto no Discord. Se você curte GTA SA-MP e diversão, aqui é seu lugar!
+    </p>
+  </section>
+
+  <!-- Informações importantes -->
+  <section class="py-12 bg-gray-800 px-4">
+    <div class="max-w-5xl mx-auto">
+      <h3 class="text-3xl font-bold mb-6 text-yellow-400">Informações Importantes</h3>
+      <ul class="list-disc list-inside space-y-2 text-lg">
+        <li>Lives ocorrem geralmente à noite, entre 19h e 22h.</li>
+        <li>Eventos exclusivos para membros todo mês.</li>
+        <li>Temos parceria com servidores e patrocinadores oficiais.</li>
+        <li>Você pode aparecer nos vídeos sendo ativo no Discord!</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Planos de Membros -->
+  <section id="membros" class="py-12 max-w-5xl mx-auto px-4">
+    <h3 class="text-3xl font-bold mb-6 text-green-400">Seja um Membro do Canal</h3>
+    <div class="grid md:grid-cols-3 gap-6">
+      <div class="bg-gray-700 p-6 rounded-xl shadow-md">
+        <h4 class="text-xl font-bold mb-2">MeLhorZinho 1</h4>
+        <p class="mb-2">Acesso antecipado aos vídeos</p>
+        <p class="text-green-300 font-bold">R$2,99/mês</p>
+      </div>
+      <div class="bg-gray-700 p-6 rounded-xl shadow-md border border-green-500">
+        <h4 class="text-xl font-bold mb-2">Melhor do que eu 2</h4>
+        <p class="mb-2">Participação em eventos + salve em vídeos</p>
+        <p class="text-green-300 font-bold">R$6.99/mês</p>
+      </div>
+      <div class="bg-gray-700 p-6 rounded-xl shadow-md">
+        <h4 class="text-xl font-bold mb-2">MelhorZão 3</h4>
+        <p class="mb-2">Tudo incluso + acesso a grupo secreto no Discord</p>
+        <p class="text-green-300 font-bold">R$19,99/mês</p>
+      </div>
+    </div>
+
+    <
+<!-- Bot�es de apoio -->
+   <div class="mt-6 flex flex-wrap gap-4">
+  <a href="https://www.youtube.com/channel/UC4RW5iBb9b84J34owuQu3Fw/join" target="_blank"
+     class="bg-green-600 hover:bg-green-700 text-white py-2 px-4 rounded-lg">
+    Seja Membro 
+  </a>
+  <a href="https://livepix.gg/livemdt" target="_blank"
+     class="bg-yellow-500 hover:bg-yellow-600 text-white py-2 px-4 rounded-lg">
+    Live Pix 
+  </a>
+</div>
+
+  <!-- Patrocinadores -->
+  <section class="py-12 bg-gray-800 px-4">
+    <div class="max-w-5xl mx-auto">
+      <h3 class="text-3xl font-bold mb-6 text-blue-400">Patrocinadores Oficiais</h3>
+      <div class="grid md:grid-cols-2 gap-6">
+        <div class="bg-gray-700 p-4 rounded-xl">
+          <h4 class="text-xl font-bold">Horizonte Roleplay</h4>
+          <p>Parceiro oficial do canal — entre usando MDTHZ</p>
+        </div>
+        <div class="bg-gray-700 p-4 rounded-xl">
+          <h4 class="text-xl font-bold">Horizonte Roleplay</h4>
+          <p>Use o cupom <code>MDTHZ</code> para ganhar recompensa!</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Discord -->
+  <section id="discord" class="py-12 max-w-5xl mx-auto px-4">
+    <h3 class="text-3xl font-bold mb-6 text-indigo-400">Entre no Discord</h3>
+    <p class="mb-4 text-lg">
+      Participe da comunidade ativa, interaja com outros jogadores, receba avisos de lives e concorra a sorteios!
+    </p>
+    <div class="flex flex-wrap gap-4">
+      <a href="https://discord.gg/mdt-sa-comunnity-1146213617738461206 " target="_blank" class="bg-indigo-600 hover:bg-indigo-700 text-white py-2 px-4 rounded-lg">
+        Entrar no Discord
+      </a>
+      <a href="https://youtube.com/@mdtsa123?si=pzpgjKujt2QoWg_k" target="_blank" class="bg-red-600 hover:bg-red-700 text-white py-2 px-4 rounded-lg">
+        Ir para o YouTube
+      </a>
+    </div>
+  </section>
+
+  <!-- Contato -->
+  <section id="contato" class="py-12 bg-gray-800 px-4">
+    <div class="max-w-5xl mx-auto">
+      <h3 class="text-3xl font-bold mb-6 text-pink-400">Contato</h3>
+      <p class="text-lg">Quer falar com o MDT SA? Use um dos meios abaixo:</p>
+      <ul class="mt-4 space-y-2 text-lg">
+        <li>Email: <a href="mailto:contato@mdtsa.com" class="text-blue-400 underline">contato@mdtsa.com</a></li>
+        <li>Instagram: <a href="https://instagram.com/mdtsa" target="_blank" class="text-blue-400 underline">@MDT SA - SAMP</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-center py-6 mt-8 text-gray-400 text-sm">
+    &copy; 2025 Comunidade MDT SA - SAMP — Todos os direitos reservados.
+  </footer>
+</body>
+</html>
